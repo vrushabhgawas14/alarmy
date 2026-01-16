@@ -12,7 +12,8 @@
     "noEmit": true,
     "strict": true,
     "target": "esnext",
-    "module": "esnext"
+    "module": "esnext",
+    "ignoreDeprecations": "6.0"
   },
   "exclude": [
     "node_modules",
